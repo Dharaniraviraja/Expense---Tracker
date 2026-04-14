@@ -27,4 +27,4 @@ This project is a real-time expense tracker that allows users to add expenses an
   
 ## Visualizations
 - category-wise spending.png
--monthly spending.png
+- monthly spending.png

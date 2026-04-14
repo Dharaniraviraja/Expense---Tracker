@@ -26,7 +26,7 @@ This project is a real-time expense tracker that allows users to add expenses an
 - budget.csv
   
 ## Visualizations
-##Category wise spending
+###Category wise spending
 - category-wise  spending.png
-##Monthly spending
+###Monthly spending
 -monthly spending.png
